@@ -1,0 +1,9 @@
+x = "Hello World"   #String
+x = 50  #Integer
+x = 60.5    #Float
+x = 3j  #Complex
+x = ["geeks", "for", "geeks"] #List
+x = ("geeks", "for", "geeks") #Tuple
+x = {"name": "Suraj", "age": 24} #Dictionary
+x = {"geeks", "for", "geeks"} #Set
+x = True    #Boolean
